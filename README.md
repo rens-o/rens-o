@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hi, I'm Rens, a young developer from the Netherlands 🇳🇱 🙂
+Hi, I'm Rens, a young developer from the Netherlands🙂
 
 -------------------
 
