@@ -16,7 +16,7 @@ Hi, I'm Rens, a young developer from the Netherlands 🇳🇱 🙂
   
 -------------------
   
-!rens-o github stats](https://github-readme-stats.vercel.app/api?username=rens-o&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![rens-o github stats](https://github-readme-stats.vercel.app/api?username=rens-o&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![rens-o github streak](https://github-readme-streak-stats.herokuapp.com/?user=rens-o&theme=radical&include_all_commits=true&count_private=true)
 
