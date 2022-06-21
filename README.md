@@ -7,8 +7,6 @@ Hi, I'm Rens, a young developer from the Netherlands🙂
 
 ## Contact
 <a href="https://www.instagram.com/rens.oomen_/">![Instagram](https://img.shields.io/badge/rens.oomen_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://discord.gg/tjafjET3kY">![Discord Server](https://img.shields.io/discord/891727583891312680?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a>
- <a href="https://discord.com/users/267200332554174465">![Discord](https://img.shields.io/badge/rens%231000-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
-
 -------------------
 
 ### Languages and Tools  
