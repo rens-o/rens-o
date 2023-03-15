@@ -6,7 +6,7 @@ Ola👋
 -------------------
 
 ## Contact
-<a href="https://www.instagram.com/rens.oomen_/">![Instagram](https://img.shields.io/badge/rens.oomen_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="https://discord.gg/tjafjET3kY">![Discord Server](https://img.shields.io/discord/891727583891312680?label=Discord%20Server&logo=Discord&colorB=5865F2&style=for-the-badge&logoColor=white)</a>
+<a href="https://www.instagram.com/rens.oomen_/">![Instagram](https://img.shields.io/badge/rens.oomen_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 -------------------
 
 ### Languages and Tools  
